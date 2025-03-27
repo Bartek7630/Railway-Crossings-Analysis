@@ -31,3 +31,5 @@ This dashboard provides an analysis of railway traffic in the UK, focusing on pa
 
 Conclusion
 This analysis highlights peak travel hours, popular routes, and service performance. While the majority of trains run on time, delays due to weather and infrastructure issues remain a concern. Revenue is heavily driven by advance ticket sales, especially in standard class, which suggests potential pricing strategies to optimize profits.
+
+The project was made in Excel.
